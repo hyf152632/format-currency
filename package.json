@@ -1,0 +1,25 @@
+{
+  "name": "format-currency",
+  "version": "1.0.0",
+  "description": "This is an NPM module that accepts a number, with implied decimals, and returns a string currency. example: $500.00",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyf152632/format-currency.git"
+  },
+  "keywords": [],
+  "author": "andy huo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyf152632/format-currency/issues"
+  },
+  "homepage": "https://github.com/hyf152632/format-currency#readme",
+  "devDependencies": {
+    "typescript": "^3.9.6"
+  }
+}
